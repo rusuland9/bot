@@ -1,0 +1,8 @@
+﻿# Environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# Generated data files
+slack_people_response.json
